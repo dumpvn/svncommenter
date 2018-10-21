@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ProjectDS xmlns="http://tempuri.org/ProjectDS.xsd">
+  <Project>
+    <ID>1</ID>
+    <Name>TestProject</Name>
+    <URL>https://myVisualSVNServer.aDomain.com:8443/svn/TestProject/</URL>
+    <UserName />
+    <Password />
+    <Salt />
+  </Project>
+</ProjectDS>
